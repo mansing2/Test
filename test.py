@@ -3,4 +3,4 @@
 
 from flask import Flask
 
-print "Hello, Mansing!"
+print "Hello, Mtg!"
